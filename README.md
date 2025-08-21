@@ -2,10 +2,6 @@
 
 This is Web-Based Chat-Application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to register, log in, and chat with other users in real time.
 
-| Live Demo Video Link For How Real-Time Messaging Working using Socket.io | Application Hosted Link |
-|---|---|
-|https://res.cloudinary.com/arvindkumar/video/upload/v1712558423/Chat-App/Live_Test_Chat-App_y9zvof.mp4|https://chat-application-4krm.onrender.com/|
-
 ---
 ![Chat Application](frontend/src/assets/chat-app_2.png?raw=true "Chat-App Web Application")
 ---
